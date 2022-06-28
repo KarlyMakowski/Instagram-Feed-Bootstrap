@@ -1,0 +1,29 @@
+body{
+    min-height: 1000px;
+}
+
+.barraNavegacion{
+    font-family: 'Patrick Hand', cursive;
+    padding: 5px 150px;
+}
+
+.nav-pills{
+    --bs-nav-pills-link-active-bg: grey;
+}
+
+#pills-profile{
+    background-color: gray;
+}
+
+.portafolio-grid-item img{
+    width: 100%;
+}
+
+.card{
+    border-radius: 0;
+    border-width: 0;
+}
+
+.card-img-top{
+    border-radius: 0;
+}
